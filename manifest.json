@@ -9,7 +9,6 @@
       "js": ["background.js"]
     }
   ],
-
-  "permissions": ["http://*/*", "https://*/*"],
+  
   "manifest_version":3
 }
