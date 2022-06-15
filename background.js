@@ -19,3 +19,5 @@ function chance() {
 
   return false;
 }
+
+sheesh();
